@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **Full stack Android developer**
 
-- 💬 Ask me about **Android Mobile, Kotlin**
+- 💬 Ask me about **Android Mobile, Kotlin👾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
